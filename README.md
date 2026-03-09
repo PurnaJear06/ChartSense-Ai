@@ -1,1 +1,58 @@
-IyDinKjvuI8gQ2hhcnRTZW5zZSBBSSDigJQgVHJhZGluZyBDaGFydCBBbmFseXplcgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vcmVhZG1lLXR5cGluZy1zdmcuZGVtb2xhYi5vcmc/Zm9udD1GaXJhJTIwQ29kZSZjb2xvcj0wMEQ5RkYmc2l6ZT0yMiZjZW50ZXI9dHJ1ZSZ3aWR0aD02MDAmbGluZXM9QUkrVHJhZGluZytDaGFydCtBbmFseXplcjtSZWFkcytNYXJrZXRzK0xpa2UrYW4rRXhwZXJ0K1RyYWRlcztDb21wdXRlcitWaXNpb24rJTJCK0RlZXArTGVhcm5pbmciIGFsdD0iVHlwaW5nIFNWRyIgLz4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvU3RhdHVzLUFjdGl2ZS1icmlnaHRncmVlbj9zdHlsZT1mb3ItdGhlLWJhZGdlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0FJX1Bvd2VyZWQtYmx1ZT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289b3BlbmFpJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaWNlbnNlLU1JVC15ZWxsb3c/c3R5bGU9Zm9yLXRoZS1iYWRnZSIgLz4KPC9wPgoKPGhyIC8+CgojIyDwn6e4IE92ZXJ2aWV3CgpDaGFydFNlbnNlIEFJIGlzIGFuIGludGVsbGlnZW50IHRyYWRpbmcgY2hhcnQgYW5hbHlzaXMgc3lzdGVtIHRoYXQgdXNlcyAqKmNvbXB1dGVyIHZpc2lvbiBhbmQgZGVlcCBsZWFybmluZyoqIHRvIGFuYWx5emUgbWFya2V0IGNoYXJ0cyBhbmQgcHJvdmlkZSBwcm9iYWJpbGlzdGljIG1hcmtldCBiaWFzIOKAlCBqdXN0IGxpa2UgYW4gZXhwZXJpZW5jZWQgaHVtYW4gdHJhZGVyIHdvdWxkLgoKPiBbIU5PVEVdCj4g8J+OpCBHb2FsOiBQcm92aWRlIGhpZ2gtY29uZmlkZW5jZSBtYXJrZXQgYmlhcyBzaWduYWxzLCBub3QgcHJpY2UgcHJlZGljdGlvbnMuCgotLS0KCiMjIOKaud6RIERvY3VtZW50YXRpb24KClRoaXMgYnJhbmNoIGlzIHRoZSBgZG9jdW1lbnRhdGlvbmAgYnJhbmNoIGNvbnRhaW5pbmcgYWxsIHJlc2VhcmNoLCBQUkQsIGFuZCBhcmNoaXRlY3R1cmUgZG9jczoKCnwgRG9jdW1lbnQgfCBEZXNjcmlwdGlvbiB8CnwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18CnwgQ2hhcnRTZW5zZV9QUkRfdjIubWQgfCBQcm9kdWN0IFJlcXVpcmVtZW50cyBEb2N1bWVudCB8CnwgQ2hhcnRTZW5zZV9UZWM2bmljYWxfQXJjaGl0ZWN0dXJlLm1kIHwgU3lzdGVtIGFyY2hpdGVjdHVyZSBkZXNpZ24gfAp8IENoYXJ0U2Vuc2VfRGF0YV9BUElfUmVzZWFyY2gubWQgfCBEYXRhIHNvdXJjZSAmIEFQSSByZXNlYXJjaCB8CnwgQ2hhcnRTZW5zZV9aZXJvX0J1ZGdldF9QbGFuLm1kIHwgTVZQIGRlcGxveW1lbnQgcGxhbiB8CnwgQ2hhcnRTZW5zZV9QUkRfdjIuMV9VWF9FbmhhbmNlbWVudHMubWQgfCBVWCByZWZpbmVtZW50cyAodjIuMSkgfAoKLS0tCgojIyDwn9qAIFRlY2ggU3RhY2sKCnwgTGF5ZXIgfCBUZWNobm9sb2d5IHwKfC0tLS0tLS18LS0tLS0tLS0tLS0tfAp8IEFJL01MIHwgUHl0aG9uLCBUZW5zb3JGbG93IC8gUHlUb3JjaCB8CnwgVmlzaW9uIHwgT3BlbkNWLCBQSUwgfAp8IEJhY2tlbmQgfCBGYXN0QVBJIHJ8CnwgRnJvbnRlbmQgfCBSZWFjdCAvIFN0cmVhbWxpdCB8Cgotc28tCgojIyDwn5mIIFN0YXR1cwoKQ3VycmVudGx5IGluIGFjdGl2ZSBkZXZlbG9wbWVudC4gU3RhciBhbmQgd2F0Y2ggdGhpcyByZXBvIGZvciB1cGRhdGVzIQoKLS0tCgo8cCBhbGlnbj0iY2VudGVyIj5NYWRlIHdpdGgg4p2k77iPIGJ5IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9QdXJuYUplYXIwNiI+UHVybmFKZWFyMDY8L2E+PC9wPg==
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ChartSense%20AI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30" width="100%"/>
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/AI_Powered-blue?style=for-the-badge&logo=openai&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧠 Overview
+
+ChartSense AI is an intelligent trading chart analysis system that uses **computer vision and deep learning** to analyze market charts and provide probabilistic market bias — just like an experienced human trader would.
+
+> 🎯 **Goal:** Provide high-confidence market bias signals, not price predictions.
+
+---
+
+## 📚 Documentation
+
+This is the `documentation` branch containing all research, PRD, and architecture docs:
+
+| Document | Description |
+|---|---|
+| ChartSense_PRD_v2.md | Product Requirements Document |
+| ChartSense_Technical_Architecture.md | System architecture design |
+| ChartSense_Data_API_Research.md | Data source & API research |
+| ChartSense_Zero_Budget_Plan.md | MVP deployment plan |
+| ChartSense_PRD_v2.1_UX_Enhancements.md | UX refinements (v2.1) |
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|---|---|
+| AI/ML | Python, TensorFlow / PyTorch |
+| Vision | OpenCV, PIL |
+| Backend | FastAPI |
+| Frontend | React / Streamlit |
+
+---
+
+## 🔥 Status
+
+Currently in active development. Star and watch this repo for updates!
+
+---
+
+<div align="center">
+
+Made with ❤️ by [PurnaJear06](https://github.com/PurnaJear06)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
